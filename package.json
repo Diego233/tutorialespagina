@@ -1,0 +1,25 @@
+{
+  "name": "codigopaginapublicar",
+  "version": "1.0.0",
+  "description": "servidor para la pagina web de tutoriales",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diego233/tutorialespagina.git"
+  },
+  "keywords": [
+    "tutoriales",
+    "tecnologia",
+    "programacion",
+    "hogar"
+  ],
+  "author": "Diego Chacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diego233/tutorialespagina/issues"
+  },
+  "homepage": "https://github.com/Diego233/tutorialespagina#readme"
+}
